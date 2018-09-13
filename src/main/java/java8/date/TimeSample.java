@@ -11,10 +11,10 @@ import java.time.LocalTime;
 public class TimeSample {
 
     public static void main(String[] args) {
-        test();
+        localTime();
     }
 
-    private static void test() {
+    private static void localTime() {
         LocalTime localTime = LocalTime.now();
         System.out.println(localTime);
     }
