@@ -6,13 +6,12 @@ import java.util.stream.Collectors;
 
 /**
  * <pre>
+    将流中的每一个元素，转成一个或者多个元素，再以流的形式返回
  * </pre>
  *
  * @author jianwu6 [2018/9/13 10:37]
  */
 public class Flatmap {
-    // test stash
-
 
     public static void main(String[] args) {
 
@@ -23,6 +22,4 @@ public class Flatmap {
         System.out.println(newList);
 
     }
-
-
 }
