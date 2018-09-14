@@ -8,7 +8,7 @@ import java.time.LocalDate;
  *
  * @author jianwu6 [2018/9/14 11:01]
  */
-public class DateSimaple {
+public class DateSample {
 
     public static void main(String[] args) {
 
